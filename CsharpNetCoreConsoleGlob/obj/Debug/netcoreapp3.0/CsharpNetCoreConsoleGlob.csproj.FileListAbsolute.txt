@@ -1,0 +1,11 @@
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\bin\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.exe
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\bin\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.deps.json
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\bin\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.runtimeconfig.json
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\bin\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.runtimeconfig.dev.json
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\bin\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.dll
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\bin\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.pdb
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\obj\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.csprojAssemblyReference.cache
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\obj\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.AssemblyInfoInputs.cache
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\obj\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.AssemblyInfo.cs
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\obj\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.dll
+C:\Users\deno\source\repos\CsharpNetCoreConsoleGlob\CsharpNetCoreConsoleGlob\obj\Debug\netcoreapp3.0\CsharpNetCoreConsoleGlob.pdb
